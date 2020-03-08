@@ -1,8 +1,5 @@
 #!/usr/bin/python2
 
-# Creator :  ./FUKUR0-3XP
-# Team : Black Coders Satanic Exploiter Team ( BCA - X666X )
-# Recode Tidak Akan Membuat Anda Menjadi Pencipta Kode :3
 
 from requests import ConnectionError
 from time import sleep
@@ -39,7 +36,8 @@ def Banner():
  \___ \| '_ \ / _` | '_ ` _ \   \ \ /\ / / _` |
   ___) | |_) | (_| | | | | | |   \ V  V / (_| |
  |____/| .__/ \__,_|_| |_| |_|    \_/\_/ \__,_|
-       |_|                                     
+       |_| harga'i cipta'an orang. jangan se'enaknya ganti copyright
+       	    Kontol Kau Tidak Bisa Ngaceng :v
                    '''+W+'Creator : TEAM BUCIN\n\t\t   YT : TermuxID')
                    
 def RupaRupa():
