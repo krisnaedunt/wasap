@@ -20,4 +20,4 @@ _________________________
 <li> cd wasap</li>
 <li> python2 wa.py</li>
 </ol>
-<h2> TERIAMASIH. SEMOGA BERMANFAAT </h2>
+<h2> TERIMAKASIH. SEMOGA BERMANFAAT </h2>
